@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbG52dTF6aWFpN3Z2NXNyeWhobTR1cnoxYXlxcG0wOWkzYzN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif)" width = 400px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
