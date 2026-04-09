@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbG52dTF6aWFpN3Z2NXNyeWhobTR1cnoxYXlxcG0wOWkzYzN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif" width = 300px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-Spanish-dodgerblue" />
 </p>
 
 - 🔭 I’m currently working on my side projects
