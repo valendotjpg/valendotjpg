@@ -18,8 +18,12 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🌱 I’m studying at UTN
 - 👯 I’m looking to collaborate on your open source projects
+- ⚡ I know Python
+- 😄 And a little bit of HTML, CSS, JavaScript, Java, C++, etc
+- 💖 Love the beautiful code and videogames
+- 🔥 Every second counts, it is never late to start
 
 <!--snake game vizualiser, not mine for the moment-->
 <p align="center">
