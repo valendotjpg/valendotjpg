@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poeTR2a2F0cjBuajN5a3Zyc2xxMmE2bHFsbHBndno1MXV3dWtoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWGRHBnAl5Kmc/giphy.gif" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbG52dTF6aWFpN3Z2NXNyeWhobTR1cnoxYXlxcG0wOWkzYzN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif" width = 300px></picture>
  <p align="left">
